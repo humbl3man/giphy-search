@@ -1,4 +1,4 @@
-### GIPHY SEARCH
+### GIPHY SEARCH (in react)
 ```
   npm install
 ```
