@@ -1,4 +1,4 @@
-# GIPHY SEARCH
+### GIPHY SEARCH
 ```
   npm install
 ```
@@ -7,4 +7,4 @@
   npm start
 ```
 
-enjoy!
+**enjoy!**
