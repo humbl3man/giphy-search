@@ -5,7 +5,7 @@ import Searchresults from './components/Searchresults';
 import './components/index.css';
 
 const API_KEY = 'dc6zaTOxFJmzC';
-const ENDPOINT_URL = 'http://api.giphy.com/v1/gifs/search';
+const ENDPOINT_URL = 'https://api.giphy.com/v1/gifs/search';
 
 class App extends Component {
 
