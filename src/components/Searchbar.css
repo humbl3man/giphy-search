@@ -1,0 +1,33 @@
+/* Coolors Exported Palette - coolors.co/2b2d42-8d99ae-edf2f4-ef233c-d90429 */
+/* HSL */
+/* RGB */
+.searchbar {
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2b2d42;
+  box-sizing: border-box; }
+  .searchbar * {
+    box-sizing: inherit; }
+  .searchbar form {
+    display: flex;
+    flex-basis: 500px; }
+  .searchbar form > * {
+    flex: 1 1 auto; }
+  .searchbar input[type=text],
+  .searchbar button[type=submit] {
+    padding: 14px;
+    -webkit-appearance: none;
+    appearance: none;
+    border: 1px solid transparent; }
+  .searchbar input[type=text] {
+    flex-grow: 3; }
+  .searchbar button[type=submit] {
+    background-color: #ef233c;
+    color: #fff;
+    cursor: pointer; }
+    .searchbar button[type=submit]:hover {
+      background-color: #d90429; }
+
+/*# sourceMappingURL=Searchbar.css.map */

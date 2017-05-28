@@ -1,0 +1,45 @@
+@import 'palette';
+
+
+.searchbar {
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: $color1;
+  box-sizing: border-box;
+
+  * { box-sizing: inherit; }
+
+  form {
+    display: flex;
+    flex-basis: 500px;
+  }
+
+  form > * {
+    flex: 1 1 auto;
+  }
+
+  input[type=text],
+  button[type=submit] {
+    padding: 14px;
+    -webkit-appearance: none;
+      appearance: none;
+
+    border: 1px solid transparent;
+
+  }
+
+  input[type=text] {
+    flex-grow: 3;
+  }
+
+  button[type=submit] {
+    background-color: $color4;
+    color: #fff;
+    cursor: pointer;
+    &:hover {
+      background-color: $color5;
+    }
+  }
+}

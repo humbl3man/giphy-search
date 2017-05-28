@@ -1,0 +1,22 @@
+/* Coolors Exported Palette - coolors.co/2b2d42-8d99ae-edf2f4-ef233c-d90429 */
+/* HSL */
+/* RGB */
+.searchresults {
+  margin-top: 4em;
+  margin-bottom: 3em; }
+  .searchresults .fluid-wrapper {
+    max-width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap; }
+    .searchresults .fluid-wrapper .result {
+      flex-basis: 25%; }
+      .searchresults .fluid-wrapper .result img {
+        max-width: 100%;
+        height: auto; }
+  .searchresults .no-results {
+    text-align: center;
+    color: #777; }
+
+/*# sourceMappingURL=Searchresults.css.map */
